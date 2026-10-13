@@ -1,0 +1,8 @@
+{
+  "name": "Digitaalinen ravintolamenu järjestelmä",
+  "description": "Monipuolinen ja selkeä digitaalinen ravintolamenu kattavilla erikoisruokavaliosuodattimilla ja asiakasarvosteluilla.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

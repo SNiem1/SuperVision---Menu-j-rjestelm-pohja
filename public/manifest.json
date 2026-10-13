@@ -1,0 +1,18 @@
+{
+  "short_name": "Kolme Kruunua",
+  "name": "Ravintola Kolme Kruunua",
+  "description": "Aitoa helsinkiläistä ravintolakulttuuria vuodesta 1952",
+  "icons": [
+    {
+      "src": "/src/Images/fivegon.png",
+      "type": "image/png",
+      "sizes": "192x192 512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#faf8f2",
+  "theme_color": "#2e4c9b",
+  "display": "standalone",
+  "orientation": "portrait-primary"
+}
